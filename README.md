@@ -1,30 +1,35 @@
-# Haider Rizvi
+# Syed Haider Ali Rizvi
 
-**Business operations, analytics, and workflow automation**
+**Business operations · Analytics · Workflow automation**
 
-I build practical tools for reporting, planning, and process controls. I bring 12+ years of experience across insurance, takaful, banking, and compliance. I run Aligh Nexus Solutions, where I develop workflow prototypes and help turn business requirements into testable designs.
+I turn business requirements into reporting, controls, and digital workflows that teams can test and operate. I bring more than 12 years of experience across insurance, takaful, banking, and compliance, and run Aligh Nexus Solutions.
 
-## Featured systems
+[Portfolio](https://github.com/haideraligh05-ctrl/professional-portfolio) · [Delivery roadmap](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/ROADMAP.md) · [Automated tests](https://github.com/haideraligh05-ctrl/professional-portfolio/actions)
 
-| Project | What it demonstrates | Stage |
+## Run or download the software
+
+| Repository | What you can try | Get it |
 | --- | --- | --- |
-| [Unified Payout Controls](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/payout-controls.md) | Consolidating payout feeds, reconciling deductions and recoveries, and routing exceptions for approval with an audit trail. | Requirements and control design |
-| [Commercial Approval & Order Tracking](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/commercial-workflow.md) | A Flask and SQLite workspace for technical approvals, order tracking, and delivery handoffs. | Aligh Nexus working prototype |
-| [Investment Operations Workbench](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/investment-operations.md) | Investor onboarding, funding approvals, and portfolio tracking using Next.js, Express, and PostgreSQL. | Aligh Nexus MVP |
-| [Eligibility & Benefits Calculator](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/salary-validation-workflow.md) | Role-based salary and benefits eligibility, performance input validation, and exception review. | Offline prototype and requirements |
+| [Business Operations Demo Suite](https://github.com/haideraligh05-ctrl/business-operations-demo-suite) | Six offline demos covering payouts, commercial approvals, investment operations, eligibility, AUM movement, and exception review. | [Download ZIP](https://github.com/haideraligh05-ctrl/business-operations-demo-suite/archive/refs/heads/main.zip) |
+| [Business Mix Planner](https://github.com/haideraligh05-ctrl/business-mix-planner) | Compare available pipeline against a target and see the remaining gap. | [Get v1.0.0](https://github.com/haideraligh05-ctrl/business-mix-planner/releases/tag/v1.0.0) |
+| [Complaint SLA Toolkit](https://github.com/haideraligh05-ctrl/complaint-sla-toolkit) | Run the Python CLI on a sample complaint CSV and compare results with the test cases. | [Quick start](https://github.com/haideraligh05-ctrl/complaint-sla-toolkit) |
 
-## Tools you can try
+## Project index
 
-| Tool | What it does | Get started |
-| --- | --- | --- |
-| **Business Mix Planner** | Compare available pipeline with a performance target and see the remaining gap. Runs offline in a browser. | [Download v1.0.0](https://github.com/haideraligh05-ctrl/business-mix-planner/releases/tag/v1.0.0) · [Source and quick start](https://github.com/haideraligh05-ctrl/business-mix-planner) |
-| **Complaint SLA Toolkit** | Turn a sample complaint CSV into a deadline and status report. Includes expected results and Python regression tests. | [Run the toolkit](https://github.com/haideraligh05-ctrl/complaint-sla-toolkit) · [Test workflow](https://github.com/haideraligh05-ctrl/professional-portfolio/actions) |
+| Project | Contribution or deliverable |
+| --- | --- |
+| [Unified payout controls](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/payout-controls.md) | Requirements for data consolidation, approvals, reconciliation, and audit evidence |
+| [Commercial approval and order tracking](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/commercial-workflow.md) | Local working prototype |
+| [Investment operations workflow MVP](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/investment-operations.md) | MVP implementation |
+| [Salary validation workflow and benefits prototype](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/salary-validation-workflow.md) | Eligibility requirements and role-based workflow prototypes |
+| [Portfolio reporting and AUM validation](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/portfolio-validation.md) | Business requirements, KPI definitions, controls, and reporting design |
+| [Complaint CRM and SLA tracking](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/complaint-crm.md) | Workflow definition, pilot UAT, and defect reporting |
+| [Recruitment portal and assessment](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/recruitment.md) | Process digitization, assessment requirements, and rollout coordination |
+| [Offline performance letter generation](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/letter-generation.md) | Template mapping, offline workflow, and rendering QA |
+| [Adviser performance and hiring analytics](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/adviser-performance.md) | Cohort reporting, standalone dashboards, and validation |
+| [Business operations dashboard requirements](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/operations-dashboard.md) | Executive reporting requirements, drill-down, and reconciliation |
+| [Billing and receivables prototype](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/billing-receivables.md) | Browser prototype |
+| [Digital insurance platform discovery](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/digital-insurance-discovery.md) | Solution proposal |
+| [Business mix and shortfall planning](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/business-mix-planning.md) | Pipeline scenarios and residual shortfall |
 
-## More case studies
-
-- [Billing and receivables](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/billing-receivables.md) — prototype with a worked example of partial-payment reconciliation.
-- [Business operations dashboard](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/operations-dashboard.md) — business requirements for KPI reporting, drill-downs, and reconciliation.
-
-[Browse all case studies](https://github.com/haideraligh05-ctrl/professional-portfolio) · [Follow the project roadmap](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/ROADMAP.md)
-
-Open to business operations, business analysis, digital transformation, and consulting opportunities.
+Case studies summarize anonymized work. Public demos use synthetic data and simplified business rules.
