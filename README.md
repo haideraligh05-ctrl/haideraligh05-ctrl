@@ -1,19 +1,23 @@
-# Syed Haider Ali Rizvi
+# Haider Rizvi
 
-**Business Operations · Business Analysis · Digital Transformation**
+**Business operations, analytics, and workflow automation**
 
-I design reporting, controls, and digital workflows that teams can implement, test, and operate. I bring more than 12 years of experience across insurance, takaful, banking, and compliance. As founder of Aligh Nexus Solutions, I also work on business process automation and software prototypes.
+I build practical tools for reporting, planning, and process controls. I bring 12+ years of experience across insurance, takaful, banking, and compliance. I run Aligh Nexus Solutions, where I develop workflow prototypes and help turn business requirements into testable designs.
 
-## Featured work
+## Tools you can try
 
-| Project | Contribution or deliverable |
-| --- | --- |
-| [Commercial approval and order tracking](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/commercial-workflow.md) | Aligh Nexus working prototype for technical approvals, order tracking, and delivery handoffs. |
-| [Business operations dashboard](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/operations-dashboard.md) | Requirements for KPI reporting, drill-downs, and reconciliation. |
-| [Offline letter generation](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/letter-generation.md) | Template mapping, offline workflow, and rendering QA. |
-| [Investment operations](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/investment-operations.md) | Aligh Nexus MVP covering onboarding, approval workflows, and portfolio tracking. |
-| [Unified payout controls](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/payout-controls.md) | Requirements for reconciliation, approvals, and traceability. |
+| Tool | What it does | Get started |
+| --- | --- | --- |
+| **Business Mix Planner** | Compare available pipeline with a performance target and see the remaining gap. Runs offline in a browser. | [Download v1.0.0](https://github.com/haideraligh05-ctrl/business-mix-planner/releases/tag/v1.0.0) · [Source and quick start](https://github.com/haideraligh05-ctrl/business-mix-planner) |
+| **Complaint SLA Toolkit** | Turn a sample complaint CSV into a deadline and status report. Includes expected results and Python regression tests. | [Run the toolkit](https://github.com/haideraligh05-ctrl/complaint-sla-toolkit) · [Test workflow](https://github.com/haideraligh05-ctrl/professional-portfolio/actions) |
 
-[Explore all 13 case studies](https://github.com/haideraligh05-ctrl/professional-portfolio) · [Run the Python SLA demo](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/SLA-DEMO.md) · [View the roadmap](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/ROADMAP.md)
+## Selected case studies
+
+- [Commercial approvals and order tracking](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/commercial-workflow.md) — Aligh Nexus prototype that follows work from technical review through delivery.
+- [Billing and receivables](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/billing-receivables.md) — prototype with a worked example of partial-payment reconciliation.
+- [Business operations dashboard](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/operations-dashboard.md) — business requirements for KPI reporting, drill-downs, and reconciliation.
+- [Investment operations workflow](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/investment-operations.md) — Aligh Nexus MVP covering onboarding, approvals, and portfolio tracking.
+
+[Browse all case studies](https://github.com/haideraligh05-ctrl/professional-portfolio) · [Follow the project roadmap](https://github.com/haideraligh05-ctrl/professional-portfolio/blob/main/ROADMAP.md)
 
 Open to business operations, business analysis, digital transformation, and consulting opportunities.
