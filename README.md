@@ -10,6 +10,7 @@ I turn business requirements into reporting, controls, and digital workflows tha
 
 | Repository | What you can try | Get it |
 | --- | --- | --- |
+| [Billing & Receivables Studio](https://github.com/haideraligh05-ctrl/billing-receivables-studio) | Offline app for client records, itemized invoices, payment allocation and outstanding balances. | [Download ZIP](https://github.com/haideraligh05-ctrl/billing-receivables-studio/archive/refs/heads/main.zip) |
 | [Business Operations Demo Suite](https://github.com/haideraligh05-ctrl/business-operations-demo-suite) | Six offline demos covering payouts, commercial approvals, investment operations, eligibility, AUM movement, and exception review. | [Download ZIP](https://github.com/haideraligh05-ctrl/business-operations-demo-suite/archive/refs/heads/main.zip) |
 | [Business Mix Planner](https://github.com/haideraligh05-ctrl/business-mix-planner) | Compare available pipeline against a target and see the remaining gap. | [Get v1.0.0](https://github.com/haideraligh05-ctrl/business-mix-planner/releases/tag/v1.0.0) |
 | [Complaint SLA Toolkit](https://github.com/haideraligh05-ctrl/complaint-sla-toolkit) | Run the Python CLI on a sample complaint CSV and compare results with the test cases. | [Quick start](https://github.com/haideraligh05-ctrl/complaint-sla-toolkit) |
